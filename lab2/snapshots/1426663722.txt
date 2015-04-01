@@ -1,0 +1,15 @@
+/home/stud2011/1bojes/pite/lab1/example
+   /home/stud2011/1bojes/pite/lab1/example/file2.zip
+   /home/stud2011/1bojes/pite/lab1/example/dir3
+   /home/stud2011/1bojes/pite/lab1/example/file1
+   /home/stud2011/1bojes/pite/lab1/example/dir1
+      /home/stud2011/1bojes/pite/lab1/example/dir1/dir1_2
+      /home/stud2011/1bojes/pite/lab1/example/dir1/dir1_1
+         /home/stud2011/1bojes/pite/lab1/example/dir1/dir1_1/xx.txt
+         /home/stud2011/1bojes/pite/lab1/example/dir1/dir1_1/cache.cc
+      /home/stud2011/1bojes/pite/lab1/example/dir1/somefile.txt
+      /home/stud2011/1bojes/pite/lab1/example/dir1/.something
+   /home/stud2011/1bojes/pite/lab1/example/dir2
+      /home/stud2011/1bojes/pite/lab1/example/dir2/sss
+         /home/stud2011/1bojes/pite/lab1/example/dir2/sss/xxx
+   /home/stud2011/1bojes/pite/lab1/example/.file3
